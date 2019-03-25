@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://eagjolstad.github.io/sanity-react/",
   "dependencies": {
     "@sanity/client": "^0.140.11",
     "react": "^16.8.4",
@@ -9,6 +10,8 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
