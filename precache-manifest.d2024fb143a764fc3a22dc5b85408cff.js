@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/sanity-react/static/js/runtime~main.b95ca0fc.js"
   },
   {
-    "revision": "b09e1f2359230f558614",
-    "url": "/sanity-react/static/js/main.99013827.chunk.js"
+    "revision": "bdf2e08e583c8e7c3d60",
+    "url": "/sanity-react/static/js/main.5455cc37.chunk.js"
   },
   {
     "revision": "846737578bfecb0a64d5",
     "url": "/sanity-react/static/js/2.c0dae5a6.chunk.js"
   },
   {
-    "revision": "b09e1f2359230f558614",
+    "revision": "bdf2e08e583c8e7c3d60",
     "url": "/sanity-react/static/css/main.01e5d2f7.chunk.css"
   },
   {
-    "revision": "e32cbeb5c6446b16e1c083006ed558e5",
+    "revision": "72b3c7c30c9c54b7e9cb77298203462e",
     "url": "/sanity-react/index.html"
   }
 ];
